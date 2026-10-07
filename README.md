@@ -190,4 +190,4 @@ Also, when both `setImmediate()` and `setTimeout(..., 0)` are initially schedule
 
 ## Conclusion
 
-This program helps us understand how Node.js moves between the **Timers** and **Check** phases and how callbacks can schedule other callbacks.
+This program helps us understand how Node.js moves between the **Timers** and **Check** phases and how callbacks can schedule other callback
